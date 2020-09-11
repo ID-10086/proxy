@@ -1,6 +1,6 @@
-domain: example.com
+domain: proxy.herokuapp.com
 cf_email: ""
 cf_key: ""
 source-files:
   - ./source.yaml
-  - https://example.com/source.yaml
+  - https://proxy.herokuapp.com/source.yaml
