@@ -1,6 +1,6 @@
-domain: proxy.herokuapp.com
+domain: proxywxj.herokuapp.com
 cf_email: ""
 cf_key: ""
 source-files:
   - ./source.yaml
-  - https://proxy.herokuapp.com/source.yaml
+  - https://proxywxj.herokuapp.com/source.yaml
